@@ -1,0 +1,35 @@
+_repo: Studies-in-love-and-in-terror_26702
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lowndes, Marie Belloc
+    aliases:
+    - Belloc-Lowndes, Marie Adelaide
+    - Belloc, M. A. (Marie Adelaide)
+    - Belloc, Marie Adelaide
+    - Lowndes, Marie Adelaide Belloc
+    birthdate: 1868
+    deathdate: 1947
+    gutenberg_agent_id: '786'
+    url: http://www.gutenberg.org/2009/agents/786
+    wikipedia: http://en.wikipedia.org/wiki/Marie_Adelaide_Belloc_Lowndes
+description: ''
+gutenberg_issued: '2008-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26702'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horror tales, English'
+- !lcsh 'Love stories, English'
+- !lcc 'PR'
+tableOfContents: Price of admiralty -- The child -- St. Catherine's eve -- The woman
+  from purgatory -- Why they married.
+title: Studies in love and in terror
+url: http://www.gutenberg.org/ebooks/26702
